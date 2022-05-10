@@ -1,0 +1,13 @@
+@media (max-width:739px) {
+    .wrapper {
+        height: 100vh;
+        overflow-y: scroll;
+    }
+    .image {
+        width: 48%;
+        margin: 8px 0;
+    }
+    .gallery__inner {
+        width: 100%;
+    }
+}
